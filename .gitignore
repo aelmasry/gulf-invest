@@ -1,0 +1,10 @@
+# secrets
+.env
+*.key
+# personal financial details stay local
+05-portfolio/private/
+# python / node
+__pycache__/
+.venv/
+node_modules/
+.DS_Store
